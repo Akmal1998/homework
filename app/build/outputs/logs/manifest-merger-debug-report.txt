@@ -1,0 +1,424 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml:2:1-57:12
+INJECTED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml:2:1-57:12
+INJECTED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml:2:1-57:12
+INJECTED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml:2:1-57:12
+MERGED from [com.android.support:design:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/28cb5e016221db59bb9954323a04a7c1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/c94e4a0a4fcfd813afb212f1b25c4acf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.yandex.android:directions:3.1.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/directions-3.1.2.aar/1206b613e30ed90b2181b71398b6931d/AndroidManifest.xml:2:1-11:12
+MERGED from [com.yandex.android:places:3.1.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/places-3.1.2.aar/a851a06ce0398a6c1aaa8e86abc23e66/AndroidManifest.xml:2:1-11:12
+MERGED from [com.yandex.android:search:3.1.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/search-3.1.2.aar/a9ce576559bb6930b65f6470edf8571d/AndroidManifest.xml:2:1-11:12
+MERGED from [com.yandex.android:transport:3.1.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/transport-3.1.2.aar/d1843370a1f27123a567928a825e3309/AndroidManifest.xml:2:1-11:12
+MERGED from [com.yandex.android:mapkit:3.1.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/mapkit-3.1.2.aar/82971bc436da424b7f8788697fc365d6/AndroidManifest.xml:2:1-30:12
+MERGED from [com.yandex.android:runtime:3.1.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/runtime-3.1.2.aar/7b3047c3c8ae25eb70f9a5c00e07f1ee/AndroidManifest.xml:2:1-38:12
+MERGED from [com.google.android.gms:play-services-location:11.6.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/play-services-location-11.6.2.aar/bc368f5d60d6382ff88890dfa6812dfd/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-base:11.6.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.2.aar/c3c7d359aa452e582569e90d4185514f/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-tasks:11.6.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.2.aar/7add6d5f4f22b2fbdedc1bf0f19bb798/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.2.aar/331ebc97278a7b0cca373b69d814bcf1/AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/7d156322d522e1f1355a9483ff0ac7b7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/645ace003fe72af5271b568045a29293/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/glide-4.8.0.aar/d20aac42fd996616beb8c25a652bcd3b/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/ec5d19cf321ffddae7d51b9cb2f66461/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/85a19b0f37844567de202d0f7a42dd07/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/041007cbfbc52318efe73668293a2977/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/15b00e9f7dcb3f620e63a0185b388855/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/a8d6b5c7c56d561403d9ee1ad1750de2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/c156cbe9e6be0c19896efdb9402c35c5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/20367f4541495dfa4854f1d80de9f166/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/db2ac635a8491c6e690d920c41f5a5eb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/6effb50c6918c24cc97b8ea4d47c23fe/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/7d725f2df5633d7a5f1d9d37472e1cf2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/435296ed27503b875a71f9d6ea6d06c0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/5059ae800f1e3abc06828d03c2e75ff9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/f78ae1c75126d04b23220e691f394b56/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/08c048b6fd03bc393574afb60e96f3d7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/15e79de362af729627cb8bf2db842ffd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/e73d9a8e42b1b81883ce6b3393c76593/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/931042d6205546aa8c20db7da6422486/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/6f0f05aad5b913d1769e9b16cebcb738/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/1c4f6087a7d24db5bc0fdb49c04678e8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/5aabe2e2979c27b3cd5d066afff787dd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.8.0.aar/86dfe1ba9fef97cad9bf7d2c975a0dae/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/ddc3adff0cfe8486ad0d54ff3d500aab/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/7ab75b12f6f75909bc74e221e8d25683/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/a1b07bb55cf34ce48a66cd68ff15f916/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/88b33d5b8f4e4b28fe7528aa16a707bc/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/368ac237f621d6a9fb6ec74720911310/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/d3d133fee9a09fa6b4a66e39c93a3bf6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/261e4381a7c2cb1d0c6a8f8361fd40d4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a004082d0d49e8e38348e5cd3cfaf321/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/405e3927e0f56e0093030e69fb8c14c0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-location-license:11.6.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/play-services-location-license-11.6.2.aar/031bb188f0b50f29bc1133d0363296bf/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-base-license:11.6.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.2.aar/fca4cf591c9ca2e3b486d3a86a01e1f2/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.2.aar/32df599bb1716e4366c8be3b02531487/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.2.aar/f4dafc61d1ed27f0458d9763ab1851f7/AndroidManifest.xml:2:1-6:12
+INJECTED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml:2:1-57:12
+INJECTED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml:2:1-57:12
+INJECTED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml:2:1-57:12
+	package
+		ADDED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml:3:5-47
+		INJECTED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml:2:1-57:12
+		INJECTED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml:2:1-57:12
+		INJECTED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [com.yandex.android:runtime:3.1.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/runtime-3.1.2.aar/7b3047c3c8ae25eb70f9a5c00e07f1ee/AndroidManifest.xml:11:5-67
+MERGED from [com.yandex.android:runtime:3.1.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/runtime-3.1.2.aar/7b3047c3c8ae25eb70f9a5c00e07f1ee/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml:6:5-72
+	android:name
+		ADDED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml:6:22-69
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml:7:5-75
+	android:name
+		ADDED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml:7:22-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml:8:5-80
+MERGED from [com.yandex.android:runtime:3.1.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/runtime-3.1.2.aar/7b3047c3c8ae25eb70f9a5c00e07f1ee/AndroidManifest.xml:12:5-81
+MERGED from [com.yandex.android:runtime:3.1.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/runtime-3.1.2.aar/7b3047c3c8ae25eb70f9a5c00e07f1ee/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml:8:22-78
+application
+ADDED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml:12:5-55:19
+MERGED from [com.android.support:design:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/28cb5e016221db59bb9954323a04a7c1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/28cb5e016221db59bb9954323a04a7c1/AndroidManifest.xml:22:5-20
+MERGED from [com.yandex.android:mapkit:3.1.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/mapkit-3.1.2.aar/82971bc436da424b7f8788697fc365d6/AndroidManifest.xml:14:5-28:19
+MERGED from [com.yandex.android:mapkit:3.1.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/mapkit-3.1.2.aar/82971bc436da424b7f8788697fc365d6/AndroidManifest.xml:14:5-28:19
+MERGED from [com.yandex.android:runtime:3.1.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/runtime-3.1.2.aar/7b3047c3c8ae25eb70f9a5c00e07f1ee/AndroidManifest.xml:22:5-36:19
+MERGED from [com.yandex.android:runtime:3.1.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/runtime-3.1.2.aar/7b3047c3c8ae25eb70f9a5c00e07f1ee/AndroidManifest.xml:22:5-36:19
+MERGED from [com.google.android.gms:play-services-location:11.6.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/play-services-location-11.6.2.aar/bc368f5d60d6382ff88890dfa6812dfd/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-location:11.6.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/play-services-location-11.6.2.aar/bc368f5d60d6382ff88890dfa6812dfd/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-base:11.6.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.2.aar/c3c7d359aa452e582569e90d4185514f/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.6.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.2.aar/c3c7d359aa452e582569e90d4185514f/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.6.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.2.aar/7add6d5f4f22b2fbdedc1bf0f19bb798/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.6.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.2.aar/7add6d5f4f22b2fbdedc1bf0f19bb798/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.2.aar/331ebc97278a7b0cca373b69d814bcf1/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.2.aar/331ebc97278a7b0cca373b69d814bcf1/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/645ace003fe72af5271b568045a29293/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/645ace003fe72af5271b568045a29293/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/glide-4.8.0.aar/d20aac42fd996616beb8c25a652bcd3b/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/glide-4.8.0.aar/d20aac42fd996616beb8c25a652bcd3b/AndroidManifest.xml:10:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/931042d6205546aa8c20db7da6422486/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/931042d6205546aa8c20db7da6422486/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/6f0f05aad5b913d1769e9b16cebcb738/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/6f0f05aad5b913d1769e9b16cebcb738/AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.8.0.aar/86dfe1ba9fef97cad9bf7d2c975a0dae/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.8.0.aar/86dfe1ba9fef97cad9bf7d2c975a0dae/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-location-license:11.6.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/play-services-location-license-11.6.2.aar/031bb188f0b50f29bc1133d0363296bf/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-location-license:11.6.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/play-services-location-license-11.6.2.aar/031bb188f0b50f29bc1133d0363296bf/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.6.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.2.aar/fca4cf591c9ca2e3b486d3a86a01e1f2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.6.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.2.aar/fca4cf591c9ca2e3b486d3a86a01e1f2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.2.aar/32df599bb1716e4366c8be3b02531487/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.2.aar/32df599bb1716e4366c8be3b02531487/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.2.aar/f4dafc61d1ed27f0458d9763ab1851f7/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.2.aar/f4dafc61d1ed27f0458d9763ab1851f7/AndroidManifest.xml:5:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/931042d6205546aa8c20db7da6422486/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml:15:9-41
+	android:roundIcon
+		ADDED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml:16:9-54
+	android:icon
+		ADDED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml:19:9-40
+	android:name
+		ADDED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml:18:9-68
+activity#com.AkmalProgrammingInc.akmality.MainActivity.MainActivity
+ADDED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml:20:9-27:20
+	android:label
+		ADDED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml:22:13-45
+	android:theme
+		ADDED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml:23:13-56
+	android:name
+		ADDED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml:21:13-86
+intent-filter#action:name:android.intent.action.MAIN
+ADDED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml:24:13-26:29
+action#android.intent.action.MAIN
+ADDED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml:25:25-66
+meta-data#preloaded_fonts
+ADDED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml:29:9-31:57
+	android:resource
+		ADDED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml:31:13-54
+	android:name
+		ADDED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml:30:13-43
+activity#com.AkmalProgrammingInc.akmality.GitHubAuth.AuthView
+ADDED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml:33:9-44:20
+	android:theme
+		ADDED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml:34:13-53
+	android:name
+		ADDED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml:33:19-86
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.LAUNCHER+data:host:callback+data:scheme:akmal
+ADDED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml:35:13-43:29
+action#android.intent.action.VIEW
+ADDED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml:36:17-68
+	android:name
+		ADDED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml:36:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml:37:17-75
+	android:name
+		ADDED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml:37:27-73
+category#android.intent.category.LAUNCHER
+ADDED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml:38:27-74
+category#android.intent.category.BROWSABLE
+ADDED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml:39:17-77
+	android:name
+		ADDED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml:39:27-75
+data
+ADDED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml:40:17-42:45
+	android:host
+		ADDED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml:41:21-44
+	android:scheme
+		ADDED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml:42:21-43
+provider#android.support.v4.content.FileProvider
+ADDED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml:46:9-54:20
+	android:grantUriPermissions
+		ADDED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml:50:13-47
+	android:authorities
+		ADDED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml:48:13-63
+	android:exported
+		ADDED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml:49:13-37
+	android:name
+		ADDED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml:47:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml:51:13-53:53
+	android:resource
+		ADDED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml:53:17-51
+	android:name
+		ADDED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml:52:17-67
+uses-sdk
+INJECTED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/28cb5e016221db59bb9954323a04a7c1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/28cb5e016221db59bb9954323a04a7c1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/c94e4a0a4fcfd813afb212f1b25c4acf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/c94e4a0a4fcfd813afb212f1b25c4acf/AndroidManifest.xml:20:5-44
+MERGED from [com.yandex.android:directions:3.1.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/directions-3.1.2.aar/1206b613e30ed90b2181b71398b6931d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.yandex.android:directions:3.1.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/directions-3.1.2.aar/1206b613e30ed90b2181b71398b6931d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.yandex.android:places:3.1.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/places-3.1.2.aar/a851a06ce0398a6c1aaa8e86abc23e66/AndroidManifest.xml:7:5-9:41
+MERGED from [com.yandex.android:places:3.1.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/places-3.1.2.aar/a851a06ce0398a6c1aaa8e86abc23e66/AndroidManifest.xml:7:5-9:41
+MERGED from [com.yandex.android:search:3.1.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/search-3.1.2.aar/a9ce576559bb6930b65f6470edf8571d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.yandex.android:search:3.1.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/search-3.1.2.aar/a9ce576559bb6930b65f6470edf8571d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.yandex.android:transport:3.1.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/transport-3.1.2.aar/d1843370a1f27123a567928a825e3309/AndroidManifest.xml:7:5-9:41
+MERGED from [com.yandex.android:transport:3.1.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/transport-3.1.2.aar/d1843370a1f27123a567928a825e3309/AndroidManifest.xml:7:5-9:41
+MERGED from [com.yandex.android:mapkit:3.1.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/mapkit-3.1.2.aar/82971bc436da424b7f8788697fc365d6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.yandex.android:mapkit:3.1.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/mapkit-3.1.2.aar/82971bc436da424b7f8788697fc365d6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.yandex.android:runtime:3.1.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/runtime-3.1.2.aar/7b3047c3c8ae25eb70f9a5c00e07f1ee/AndroidManifest.xml:7:5-9:41
+MERGED from [com.yandex.android:runtime:3.1.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/runtime-3.1.2.aar/7b3047c3c8ae25eb70f9a5c00e07f1ee/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-location:11.6.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/play-services-location-11.6.2.aar/bc368f5d60d6382ff88890dfa6812dfd/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:11.6.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/play-services-location-11.6.2.aar/bc368f5d60d6382ff88890dfa6812dfd/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-base:11.6.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.2.aar/c3c7d359aa452e582569e90d4185514f/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.6.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.2.aar/c3c7d359aa452e582569e90d4185514f/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.6.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.2.aar/7add6d5f4f22b2fbdedc1bf0f19bb798/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.6.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.2.aar/7add6d5f4f22b2fbdedc1bf0f19bb798/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.2.aar/331ebc97278a7b0cca373b69d814bcf1/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.2.aar/331ebc97278a7b0cca373b69d814bcf1/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/7d156322d522e1f1355a9483ff0ac7b7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/7d156322d522e1f1355a9483ff0ac7b7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/645ace003fe72af5271b568045a29293/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/645ace003fe72af5271b568045a29293/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/glide-4.8.0.aar/d20aac42fd996616beb8c25a652bcd3b/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/glide-4.8.0.aar/d20aac42fd996616beb8c25a652bcd3b/AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/ec5d19cf321ffddae7d51b9cb2f66461/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/ec5d19cf321ffddae7d51b9cb2f66461/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/85a19b0f37844567de202d0f7a42dd07/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/85a19b0f37844567de202d0f7a42dd07/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/041007cbfbc52318efe73668293a2977/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/041007cbfbc52318efe73668293a2977/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/15b00e9f7dcb3f620e63a0185b388855/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/15b00e9f7dcb3f620e63a0185b388855/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/a8d6b5c7c56d561403d9ee1ad1750de2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/a8d6b5c7c56d561403d9ee1ad1750de2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/c156cbe9e6be0c19896efdb9402c35c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/c156cbe9e6be0c19896efdb9402c35c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/20367f4541495dfa4854f1d80de9f166/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/20367f4541495dfa4854f1d80de9f166/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/db2ac635a8491c6e690d920c41f5a5eb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/db2ac635a8491c6e690d920c41f5a5eb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/6effb50c6918c24cc97b8ea4d47c23fe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/6effb50c6918c24cc97b8ea4d47c23fe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/7d725f2df5633d7a5f1d9d37472e1cf2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/7d725f2df5633d7a5f1d9d37472e1cf2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/435296ed27503b875a71f9d6ea6d06c0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/435296ed27503b875a71f9d6ea6d06c0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/5059ae800f1e3abc06828d03c2e75ff9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/5059ae800f1e3abc06828d03c2e75ff9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/f78ae1c75126d04b23220e691f394b56/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/f78ae1c75126d04b23220e691f394b56/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/08c048b6fd03bc393574afb60e96f3d7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/08c048b6fd03bc393574afb60e96f3d7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/15e79de362af729627cb8bf2db842ffd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/15e79de362af729627cb8bf2db842ffd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/e73d9a8e42b1b81883ce6b3393c76593/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/e73d9a8e42b1b81883ce6b3393c76593/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/931042d6205546aa8c20db7da6422486/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/931042d6205546aa8c20db7da6422486/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/6f0f05aad5b913d1769e9b16cebcb738/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/6f0f05aad5b913d1769e9b16cebcb738/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/1c4f6087a7d24db5bc0fdb49c04678e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/1c4f6087a7d24db5bc0fdb49c04678e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/5aabe2e2979c27b3cd5d066afff787dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/5aabe2e2979c27b3cd5d066afff787dd/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.8.0.aar/86dfe1ba9fef97cad9bf7d2c975a0dae/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.8.0.aar/86dfe1ba9fef97cad9bf7d2c975a0dae/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:documentfile:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/ddc3adff0cfe8486ad0d54ff3d500aab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/ddc3adff0cfe8486ad0d54ff3d500aab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/7ab75b12f6f75909bc74e221e8d25683/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/7ab75b12f6f75909bc74e221e8d25683/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/a1b07bb55cf34ce48a66cd68ff15f916/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/a1b07bb55cf34ce48a66cd68ff15f916/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/88b33d5b8f4e4b28fe7528aa16a707bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/88b33d5b8f4e4b28fe7528aa16a707bc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/368ac237f621d6a9fb6ec74720911310/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/368ac237f621d6a9fb6ec74720911310/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/d3d133fee9a09fa6b4a66e39c93a3bf6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/d3d133fee9a09fa6b4a66e39c93a3bf6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/261e4381a7c2cb1d0c6a8f8361fd40d4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/261e4381a7c2cb1d0c6a8f8361fd40d4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a004082d0d49e8e38348e5cd3cfaf321/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a004082d0d49e8e38348e5cd3cfaf321/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/405e3927e0f56e0093030e69fb8c14c0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/405e3927e0f56e0093030e69fb8c14c0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location-license:11.6.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/play-services-location-license-11.6.2.aar/031bb188f0b50f29bc1133d0363296bf/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-location-license:11.6.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/play-services-location-license-11.6.2.aar/031bb188f0b50f29bc1133d0363296bf/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.6.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.2.aar/fca4cf591c9ca2e3b486d3a86a01e1f2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.6.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.2.aar/fca4cf591c9ca2e3b486d3a86a01e1f2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.2.aar/32df599bb1716e4366c8be3b02531487/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.2.aar/32df599bb1716e4366c8be3b02531487/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.2.aar/f4dafc61d1ed27f0458d9763ab1851f7/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.2.aar/f4dafc61d1ed27f0458d9763ab1851f7/AndroidManifest.xml:4:5-43
+INJECTED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [com.yandex.android:mapkit:3.1.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/mapkit-3.1.2.aar/82971bc436da424b7f8788697fc365d6/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from [com.yandex.android:mapkit:3.1.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/mapkit-3.1.2.aar/82971bc436da424b7f8788697fc365d6/AndroidManifest.xml:11:22-78
+uses-permission#android.permission.QUICKBOOT_POWERON
+ADDED from [com.yandex.android:mapkit:3.1.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/mapkit-3.1.2.aar/82971bc436da424b7f8788697fc365d6/AndroidManifest.xml:12:5-76
+	android:name
+		ADDED from [com.yandex.android:mapkit:3.1.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/mapkit-3.1.2.aar/82971bc436da424b7f8788697fc365d6/AndroidManifest.xml:12:22-73
+service#com.yandex.mapkit.internal.MapkitService
+ADDED from [com.yandex.android:mapkit:3.1.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/mapkit-3.1.2.aar/82971bc436da424b7f8788697fc365d6/AndroidManifest.xml:15:9-76
+	android:name
+		ADDED from [com.yandex.android:mapkit:3.1.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/mapkit-3.1.2.aar/82971bc436da424b7f8788697fc365d6/AndroidManifest.xml:15:18-73
+receiver#com.yandex.mapkit.internal.MapkitElection$MapkitElectionReceiver
+ADDED from [com.yandex.android:mapkit:3.1.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/mapkit-3.1.2.aar/82971bc436da424b7f8788697fc365d6/AndroidManifest.xml:17:9-27:20
+	android:enabled
+		ADDED from [com.yandex.android:mapkit:3.1.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/mapkit-3.1.2.aar/82971bc436da424b7f8788697fc365d6/AndroidManifest.xml:19:13-36
+	android:name
+		ADDED from [com.yandex.android:mapkit:3.1.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/mapkit-3.1.2.aar/82971bc436da424b7f8788697fc365d6/AndroidManifest.xml:18:13-92
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.QUICKBOOT_POWERON+action:name:com.yandex.maps.mapkit.MAPKIT_ELECTION_ACTION+action:name:com.yandex.maps.mapkit.MAPKIT_VERSION_ACTION+action:name:com.yandex.maps.mapkit.MAPKIT_VICTORY_ACTION
+ADDED from [com.yandex.android:mapkit:3.1.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/mapkit-3.1.2.aar/82971bc436da424b7f8788697fc365d6/AndroidManifest.xml:20:13-26:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [com.yandex.android:mapkit:3.1.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/mapkit-3.1.2.aar/82971bc436da424b7f8788697fc365d6/AndroidManifest.xml:21:17-79
+	android:name
+		ADDED from [com.yandex.android:mapkit:3.1.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/mapkit-3.1.2.aar/82971bc436da424b7f8788697fc365d6/AndroidManifest.xml:21:25-76
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from [com.yandex.android:mapkit:3.1.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/mapkit-3.1.2.aar/82971bc436da424b7f8788697fc365d6/AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.yandex.android:mapkit:3.1.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/mapkit-3.1.2.aar/82971bc436da424b7f8788697fc365d6/AndroidManifest.xml:22:25-79
+action#com.yandex.maps.mapkit.MAPKIT_ELECTION_ACTION
+ADDED from [com.yandex.android:mapkit:3.1.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/mapkit-3.1.2.aar/82971bc436da424b7f8788697fc365d6/AndroidManifest.xml:23:17-88
+	android:name
+		ADDED from [com.yandex.android:mapkit:3.1.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/mapkit-3.1.2.aar/82971bc436da424b7f8788697fc365d6/AndroidManifest.xml:23:25-85
+action#com.yandex.maps.mapkit.MAPKIT_VERSION_ACTION
+ADDED from [com.yandex.android:mapkit:3.1.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/mapkit-3.1.2.aar/82971bc436da424b7f8788697fc365d6/AndroidManifest.xml:24:17-87
+	android:name
+		ADDED from [com.yandex.android:mapkit:3.1.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/mapkit-3.1.2.aar/82971bc436da424b7f8788697fc365d6/AndroidManifest.xml:24:25-84
+action#com.yandex.maps.mapkit.MAPKIT_VICTORY_ACTION
+ADDED from [com.yandex.android:mapkit:3.1.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/mapkit-3.1.2.aar/82971bc436da424b7f8788697fc365d6/AndroidManifest.xml:25:17-87
+	android:name
+		ADDED from [com.yandex.android:mapkit:3.1.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/mapkit-3.1.2.aar/82971bc436da424b7f8788697fc365d6/AndroidManifest.xml:25:25-84
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.yandex.android:runtime:3.1.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/runtime-3.1.2.aar/7b3047c3c8ae25eb70f9a5c00e07f1ee/AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from [com.yandex.android:runtime:3.1.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/runtime-3.1.2.aar/7b3047c3c8ae25eb70f9a5c00e07f1ee/AndroidManifest.xml:13:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from [com.yandex.android:runtime:3.1.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/runtime-3.1.2.aar/7b3047c3c8ae25eb70f9a5c00e07f1ee/AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from [com.yandex.android:runtime:3.1.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/runtime-3.1.2.aar/7b3047c3c8ae25eb70f9a5c00e07f1ee/AndroidManifest.xml:14:22-73
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from [com.yandex.android:runtime:3.1.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/runtime-3.1.2.aar/7b3047c3c8ae25eb70f9a5c00e07f1ee/AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from [com.yandex.android:runtime:3.1.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/runtime-3.1.2.aar/7b3047c3c8ae25eb70f9a5c00e07f1ee/AndroidManifest.xml:15:22-76
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.yandex.android:runtime:3.1.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/runtime-3.1.2.aar/7b3047c3c8ae25eb70f9a5c00e07f1ee/AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from [com.yandex.android:runtime:3.1.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/runtime-3.1.2.aar/7b3047c3c8ae25eb70f9a5c00e07f1ee/AndroidManifest.xml:16:22-76
+uses-feature#0x00020000
+ADDED from [com.yandex.android:runtime:3.1.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/runtime-3.1.2.aar/7b3047c3c8ae25eb70f9a5c00e07f1ee/AndroidManifest.xml:18:5-20:35
+	android:glEsVersion
+		ADDED from [com.yandex.android:runtime:3.1.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/runtime-3.1.2.aar/7b3047c3c8ae25eb70f9a5c00e07f1ee/AndroidManifest.xml:19:9-41
+	android:required
+		ADDED from [com.yandex.android:runtime:3.1.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/runtime-3.1.2.aar/7b3047c3c8ae25eb70f9a5c00e07f1ee/AndroidManifest.xml:20:9-32
+service#com.yandex.runtime.sensors.internal.ActivityService
+ADDED from [com.yandex.android:runtime:3.1.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/runtime-3.1.2.aar/7b3047c3c8ae25eb70f9a5c00e07f1ee/AndroidManifest.xml:23:9-87
+	android:name
+		ADDED from [com.yandex.android:runtime:3.1.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/runtime-3.1.2.aar/7b3047c3c8ae25eb70f9a5c00e07f1ee/AndroidManifest.xml:23:18-84
+service#com.yandex.runtime.connectivity.internal.ConnectivityService
+ADDED from [com.yandex.android:runtime:3.1.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/runtime-3.1.2.aar/7b3047c3c8ae25eb70f9a5c00e07f1ee/AndroidManifest.xml:24:9-27:72
+	android:exported
+		ADDED from [com.yandex.android:runtime:3.1.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/runtime-3.1.2.aar/7b3047c3c8ae25eb70f9a5c00e07f1ee/AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [com.yandex.android:runtime:3.1.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/runtime-3.1.2.aar/7b3047c3c8ae25eb70f9a5c00e07f1ee/AndroidManifest.xml:27:13-69
+	android:name
+		ADDED from [com.yandex.android:runtime:3.1.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/runtime-3.1.2.aar/7b3047c3c8ae25eb70f9a5c00e07f1ee/AndroidManifest.xml:25:13-88
+service#com.yandex.runtime.rpc.IServiceImpl
+ADDED from [com.yandex.android:runtime:3.1.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/runtime-3.1.2.aar/7b3047c3c8ae25eb70f9a5c00e07f1ee/AndroidManifest.xml:28:9-35:19
+	android:enabled
+		ADDED from [com.yandex.android:runtime:3.1.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/runtime-3.1.2.aar/7b3047c3c8ae25eb70f9a5c00e07f1ee/AndroidManifest.xml:30:13-35
+	android:exported
+		ADDED from [com.yandex.android:runtime:3.1.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/runtime-3.1.2.aar/7b3047c3c8ae25eb70f9a5c00e07f1ee/AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.yandex.android:runtime:3.1.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/runtime-3.1.2.aar/7b3047c3c8ae25eb70f9a5c00e07f1ee/AndroidManifest.xml:29:13-63
+intent-filter#action:name:com.yandex.runtime.rpc.IServiceImpl
+ADDED from [com.yandex.android:runtime:3.1.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/runtime-3.1.2.aar/7b3047c3c8ae25eb70f9a5c00e07f1ee/AndroidManifest.xml:32:13-34:29
+action#com.yandex.runtime.rpc.IServiceImpl
+ADDED from [com.yandex.android:runtime:3.1.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/runtime-3.1.2.aar/7b3047c3c8ae25eb70f9a5c00e07f1ee/AndroidManifest.xml:33:17-78
+	android:name
+		ADDED from [com.yandex.android:runtime:3.1.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/runtime-3.1.2.aar/7b3047c3c8ae25eb70f9a5c00e07f1ee/AndroidManifest.xml:33:25-75
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/akmalablaev/Desktop/AkmalMobileApp/app/src/main/AndroidManifest.xml:2:1-57:12 reason: com.yandex.runtime requested WRITE_EXTERNAL_STORAGE
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.6.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.2.aar/c3c7d359aa452e582569e90d4185514f/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.6.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.2.aar/c3c7d359aa452e582569e90d4185514f/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.6.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.2.aar/c3c7d359aa452e582569e90d4185514f/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.6.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.2.aar/c3c7d359aa452e582569e90d4185514f/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.6.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.2.aar/331ebc97278a7b0cca373b69d814bcf1/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.6.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.2.aar/331ebc97278a7b0cca373b69d814bcf1/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.6.2] /Users/akmalablaev/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.2.aar/331ebc97278a7b0cca373b69d814bcf1/AndroidManifest.xml:20:20-65
