@@ -35,16 +35,5 @@ public interface AuthContract {
         void getAccessToken(String clientId, String clientSecret, String code, GetAccesTokenCallback callback);
     }
 
-    public interface GithubClient{
 
-        @Headers("Accept: application/json")
-        @POST("login/oauth/access_token")
-        @FormUrlEncoded
-        Call<AccessToken> getAccessToken(
-                @Field("client_id") String client_id,
-                @Field("client_secret") String client_secret,
-                @Field("code") String code
-        );
-
-    }
 }

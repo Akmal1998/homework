@@ -10,12 +10,13 @@ public interface SensorContract {
         void openCamera(File file);
         void showToast(String message);
         File createImageFile() throws IOException;
+        void addImageToGallery();
     }
 
     public interface ISensorCameraPresenter{
         void attachView(ISensorCameraView view);
         void detachView();
         void photoClick();
-        void permissionGranted();
+        void preparePhotoFile();
     }
 }

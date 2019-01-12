@@ -1318,6 +1318,7 @@ id text2
 id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
+id textView
 id text_input_password_toggle
 id textinput_counter
 id textinput_error
@@ -1542,6 +1543,7 @@ string search_menu_title
 string sensors
 string status_bar_notification_info_overflow
 string unknown_error_message
+string yota
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style Animation_AppCompat_Dialog

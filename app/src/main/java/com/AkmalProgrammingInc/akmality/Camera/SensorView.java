@@ -148,17 +148,10 @@ public class SensorView extends Fragment implements View.OnClickListener, Sensor
         super.onActivityResult(requestCode, resultCode, data);
         if (requestCode == CAMERA_REQUEST && resultCode == RESULT_OK) {
             photo.setImageURI(photoURI);
-            galleryAddPic();
+            addImageToGallery();
         }
     }
 
-    private void galleryAddPic() {
-        Intent mediaScanIntent = new Intent(Intent.ACTION_MEDIA_SCANNER_SCAN_FILE);
-        File file = new File(mCurrentPhotoPath);
-        Uri contentUri = Uri.fromFile(file);
-        mediaScanIntent.setData(contentUri);
-        getActivity().sendBroadcast(mediaScanIntent);
-    }
 
 
     @Override
@@ -192,7 +185,7 @@ public class SensorView extends Fragment implements View.OnClickListener, Sensor
                         MY_PERMISSIONS_REQUEST_WRITE_EXTERNAL_STORAGE);
             }
         } else{
-            presenter.permissionGranted();
+            presenter.preparePhotoFile();
         }
     }
 
@@ -227,11 +220,20 @@ public class SensorView extends Fragment implements View.OnClickListener, Sensor
     }
 
     @Override
+    public void addImageToGallery() {
+        Intent mediaScanIntent = new Intent(Intent.ACTION_MEDIA_SCANNER_SCAN_FILE);
+        File file = new File(mCurrentPhotoPath);
+        Uri contentUri = Uri.fromFile(file);
+        mediaScanIntent.setData(contentUri);
+        getActivity().sendBroadcast(mediaScanIntent);
+    }
+
+    @Override
     public void onRequestPermissionsResult(int requestCode, @NonNull String[] permissions, @NonNull int[] grantResults) {
         Toast.makeText(getActivity(), "onRequestPermissionsResult", Toast.LENGTH_SHORT).show();
         if (requestCode == MY_PERMISSIONS_REQUEST_WRITE_EXTERNAL_STORAGE){
             if (grantResults.length > 0 && grantResults[0] == PackageManager.PERMISSION_GRANTED){
-                presenter.permissionGranted();
+                presenter.preparePhotoFile();
             }
         }
     }

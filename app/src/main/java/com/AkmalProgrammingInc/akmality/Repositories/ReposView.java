@@ -30,10 +30,6 @@ public class ReposView extends Fragment implements ReposContract.IReposView {
     private String[] from = {"name", "description"};
     private int[] to = {R.id.repoName, R.id.repoDescription};
 
-    public ReposView() {
-        // Required empty public constructor
-    }
-
 
     public static ReposView newInstance(String token) {
         ReposView fragment = new ReposView();

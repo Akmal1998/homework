@@ -14,7 +14,7 @@ public interface MainActivityContract {
             void onUserInfoFailure(String errorMessage);
         }
 
-        void getUserInfo(String token, UserInfoCallback callback);
+        void requestUser(String token, UserInfoCallback callback);
     }
 
     public interface IMainPresenter{

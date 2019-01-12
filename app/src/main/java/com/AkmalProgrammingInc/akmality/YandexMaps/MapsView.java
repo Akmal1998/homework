@@ -54,10 +54,6 @@ public class MapsView extends Fragment implements Session.RouteListener{
     private MapObjectCollection mapObjects;
     private MasstransitRouter mtRouter;
 
-    public MapsView() {
-        // Required empty public constructor
-    }
-
 
     // TODO: Rename and change types and number of parameters
     public static MapsView newInstance() {

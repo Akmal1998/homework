@@ -16,8 +16,9 @@ import retrofit2.Response;
 import retrofit2.Retrofit;
 
 public class MainModel implements MainActivityContract.IMainModel {
+
     @Override
-    public void getUserInfo(String token, final UserInfoCallback callback) {
+    public void requestUser(String token, final UserInfoCallback callback) {
         Retrofit retrofit = Application.getRetrofitGithubApi();
         MainActivityContract.UserInfoApi client = retrofit.create(MainActivityContract.UserInfoApi.class);
 

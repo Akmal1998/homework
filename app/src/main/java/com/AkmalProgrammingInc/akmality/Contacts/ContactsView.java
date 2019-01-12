@@ -40,10 +40,6 @@ public class ContactsView extends Fragment implements ContactsContract.IContract
     ContentResolver cr;
     ContactsContract.IContractsPresenter presenter;
 
-    public ContactsView() {
-        // Required empty public constructor
-    }
-
 
     // TODO: Rename and change types and number of parameters
     public static ContactsView newInstance() {

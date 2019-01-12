@@ -35,11 +35,8 @@ public class DeviceInfoFragment extends Fragment {
     private ListView infoList;
 
     private OnDeviceInfoFragmentInteractionListener mListener;
-    private TelephonyManager m_telephonyManager;;
+    private TelephonyManager telephonyManager;;
 
-    public DeviceInfoFragment() {
-        // Required empty public constructor
-    }
 
     public static DeviceInfoFragment newInstance() {
         return new DeviceInfoFragment();
@@ -49,7 +46,7 @@ public class DeviceInfoFragment extends Fragment {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         data = new ArrayList<>();
-        m_telephonyManager = (TelephonyManager) getActivity().getSystemService(TELEPHONY_SERVICE);
+        telephonyManager = (TelephonyManager) getActivity().getSystemService(TELEPHONY_SERVICE);
 
 
     }
@@ -143,7 +140,7 @@ public class DeviceInfoFragment extends Fragment {
         addElement("Номер модели", Build.MODEL);
 
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
-            addElement("IMEI", m_telephonyManager.getImei());
+            addElement("IMEI", telephonyManager.getImei());
         }
 
         SimpleAdapter adapter = new SimpleAdapter(getActivity(), data,R.layout.info_device_item ,

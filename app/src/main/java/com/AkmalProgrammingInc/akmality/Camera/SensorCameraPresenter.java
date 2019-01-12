@@ -25,7 +25,7 @@ public class SensorCameraPresenter implements SensorContract.ISensorCameraPresen
     }
 
     @Override
-    public void permissionGranted() {
+    public void preparePhotoFile() {
         if (view != null){
             try {
                 File file = view.createImageFile();

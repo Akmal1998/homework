@@ -1,4 +1,4 @@
-#Mon Dec 17 11:28:48 MSK 2018
+#Sat Jan 12 11:37:22 MSK 2019
 base.0=/Users/akmalablaev/Desktop/AkmalMobileApp/app/build/intermediates/transforms/dexMerger/debug/7
 path.0=classes.dex
 renamed.0=classes.dex

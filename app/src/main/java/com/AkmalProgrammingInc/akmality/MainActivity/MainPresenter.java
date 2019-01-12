@@ -18,7 +18,7 @@ public class MainPresenter implements MainActivityContract.IMainPresenter, MainA
 
     @Override
     public void loadUserInfo(String token) {
-        model.getUserInfo(token, this);
+        model.requestUser(token, this);
     }
 
 
